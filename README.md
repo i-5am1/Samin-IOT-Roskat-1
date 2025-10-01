@@ -1,3 +1,5 @@
-Täs olis sit kait ne luento ykkösen setit
+Sami Hägg
 
-Jokaisessa kansiossa on oma readme joka selittää mitä koodinpätkä tekee/yrittää tehdä
+Tässä on viikko ykkösen scriptit ja niiden wokwi diagram.json tiedostot.
+
+Jokaisessa kansiossa on oma readme joka selittää mitä koodinpätkä tekee/yrittää tehdä.
