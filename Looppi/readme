@@ -1,1 +1,1 @@
-Tämä scripti printtaa numerot 0-9 järjestyksessä.
+Tämä scripti printtaa numerot 0-9 loopilla järjestyksessä ja sitten lopettaa loopin.
